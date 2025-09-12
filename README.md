@@ -5,7 +5,7 @@
 คลิกที่หนังสือแต่ละเล่ม จะลิงก์ไปยังหน้ารายละเอียด
 ใช้โทนน้ำตาลอ่อน พร้อม UI 
 <img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/ece5edbe-a73a-4dbb-b78a-5a8d8a7640cf" />
-//pag2 2
+//pag2 
 แสดง รายละเอียดหนังสือ แต่ละเล่ม (Title, Author, Genre, Year, Price, Status, Description)
 มีข้อมูลผู้เพิ่มหนังสือ และวันเวลาในการสร้าง/แก้ไขล่าสุด
 ใช้โทนน้ำตาลอ่อน พร้อม UI 
